@@ -30,7 +30,9 @@ p {
 }
 .footer {
   text-align: left;
-  font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+#copyright {
+  font-size: 11px;
 }
